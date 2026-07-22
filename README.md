@@ -28,13 +28,6 @@ GuardianSense คือระบบตรวจจับการล้มที
 * **mTLS Authentication:** ยืนยันตัวตนอุปกรณ์และเซิร์ฟเวอร์ทุกครั้งที่เชื่อมต่อ[cite: 2]
 * **Role-based Access:** พยาบาลและแพทย์เห็นข้อมูลในระดับสิทธิ์ที่แตกต่างกันบน Dashboard[cite: 1, 2]
 
-## 🚀 Hackathon Timeline (36–48 ชม.)
-* **Phase 1:** Setup Sensor[cite: 1, 2]
-* **Phase 2:** Pose Estimation + Data Collection[cite: 1, 2]
-* **Phase 3:** Model Fusion + Rule-based[cite: 1, 2]
-* **Phase 4:** Secure Transport Integration[cite: 1, 2]
-* **Phase 5:** Dashboard + Demo[cite: 1, 2]
-
 ## 🔮 แผนการในอนาคต (Future Work)
 * ขยายผลการติดตั้งทั้งชั้นและอาคาร ในโรงพยาบาลและสถานดูแลผู้สูงอายุ[cite: 1, 2]
 * เชื่อมต่อหุ่นยนต์บริการให้เคลื่อนที่ไปยังจุดเกิดเหตุพร้อมชุดปฐมพยาบาล[cite: 1, 2]
